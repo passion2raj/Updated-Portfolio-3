@@ -1,0 +1,96 @@
+*{
+    margin: 0 px;
+    padding: 0px;
+}
+
+.jumbotron{
+    margin-top: 10px;
+    background-image: url(../iamges/sky1.jpg);
+    font-family: 'Mansalva', cursive;
+    
+    text-align: center;
+    font-size: 150px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    word-spacing: 10px;
+}
+
+
+#navbar-link{
+    margin-top: 0px;
+    margin-left: 20px;
+    font-weight: bolder;
+  
+    
+    }
+
+.container{
+    background:darkblue;
+    background : 100%;
+    font-size: 90%;
+}
+.col-sm-8{
+    padding: 10px;
+}
+/*-------------------------------------
+contact
+---------------------------------------*/
+
+
+.main-section {
+    width: 100%;
+    height: auto;
+
+}
+.label{
+    width: 20%;
+    height: 60%;
+}
+#name,#email{
+    width: 60%;
+    height: auto;
+}
+.btn-primary{
+    margin-left: 40%;
+}
+/*-------------------------------------
+Game 
+--------------------------------------*/
+.section-portfolio{
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 30px;
+    
+}
+.project-showcase{
+    list-style: none;
+    width: 100%;
+}
+.project-showcase li{
+    display: block;
+    float: left;
+    width: 30%;
+    text-align: center;
+
+}
+.project-photo{
+    width: 100%;
+    margin: 0;
+    overflow: hidden;
+   
+}
+/*-------------------------------------
+Home 
+--------------------------------------*/
+.section-home{
+    background-image: url(../iamges/coding1.png);
+    color: white;
+    text-align: center;
+    word-spacing: 5px;
+}
+.navbar-link{
+    padding-left: 20px;
+}
+#about-para{
+    font-size: 18px;
+}
